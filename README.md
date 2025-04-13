@@ -16,8 +16,8 @@
   
 </p>
 
-<h1 align="center">Курсы валют</h1>
 <p align="center">  
+  <h1 align="center">Курсы валют</h1>
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" style="width:10%;">
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/2.png" style="width:10%;">
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/3.png" style="width:10%;">
