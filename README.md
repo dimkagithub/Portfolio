@@ -15,16 +15,16 @@
 
 <h1 align="center">Курсы валют ЦБ РФ</h1>
 <p align="center">
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" style="width:10%;">
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/2.png" style="width:10%;">
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/3.png" style="width:10%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" style="width:15%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/2.png" style="width:15%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/3.png" style="width:15%;">
 </p>
 
 <h1 align="center">Автокод</h1>
 <p align="center">
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/1.png" style="width:10%;">
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/2.png" style="width:10%;">
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/3.png" style="width:10%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/1.png" style="width:15%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/2.png" style="width:15%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/3.png" style="width:15%;">
 </p>
 
 </body>
