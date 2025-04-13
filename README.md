@@ -16,5 +16,11 @@
   
 </p>
 
+<p align="center">
+  
+  <img src="https://github.com/dimkagithub/Portfolio/Aura/raw/main/Aura/1.png" style="width:50%;">
+
+  </p>
+
 </body>
 </html>
