@@ -1,6 +1,3 @@
-<h1 align="center">
-	Portfolio
-</h1>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/dimkagithub/Portfolio/main?style=plastic" alt="" />
 	<img src="https://img.shields.io/github/commit-activity/m/dimkagithub/Portfolio/main?style=plastic" alt="" />
