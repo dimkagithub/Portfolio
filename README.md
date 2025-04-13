@@ -18,7 +18,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Aura/1.png" style="width:50%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Aura/1.png" style="width:25%;">
 
   </p>
 
