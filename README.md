@@ -13,11 +13,18 @@
   <img src="https://img.shields.io/tokei/lines/github/dimkagithub/Portfolio?style=plastic">
 </p>
 
-<h1 align="center">Курсы валют</h1>
+<h1 align="center">Курсы валют ЦБ РФ</h1>
 <p align="center">
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" style="width:10%;">
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/2.png" style="width:10%;">
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/3.png" style="width:10%;">
+</p>
+
+<h1 align="center">Автокод</h1>
+<p align="center">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/1.png" style="width:10%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/2.png" style="width:10%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/3.png" style="width:10%;">
 </p>
 
 </body>
