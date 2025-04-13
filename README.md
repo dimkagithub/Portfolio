@@ -27,5 +27,11 @@
   <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/3.png" style="width:15%;">
 </p>
 
+<h1 align="center">Country Quiz</h1>
+<p align="center">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/CountryQuiz/1.png" style="width:15%;">
+  <img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/CountryQuiz/2.png" style="width:15%;">
+</p>
+
 </body>
 </html>
