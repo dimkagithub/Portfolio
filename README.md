@@ -51,6 +51,12 @@
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/VKUSSOVET/5.png" alt="" />
 </p>
 <h1 align="center">
+	Uptime
+</h1>
+<p align="center">
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/UpTime/1.png" alt="" />
+</p>
+<h1 align="center">
 	Golf
 </h1>
 <p align="center">
