@@ -5,6 +5,9 @@
 	Курсы валют ЦБ РФ
 </h2>
 <p align="center">
+	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+</p>
+<p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" alt="" />
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/2.png" alt="" />
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/3.png" alt="" />
@@ -12,6 +15,9 @@
 <h2 align="center">
 	Автокод
 </h2>
+<p align="center">
+	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+</p>
 <p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/1.png" alt="" />
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/2.png" alt="" />
@@ -21,12 +27,18 @@
 	Country Quiz
 </h2>
 <p align="center">
+	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+</p>
+<p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/CountryQuiz/1.png" alt="" />
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/CountryQuiz/2.png" alt="" />
 </p>
 <h2 align="center">
 	Network Activity Led (macOS)
 </h2>
+<p align="center">
+	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheMacApStoreBadgeBlack.svg" alt="" />
+</p>
 <p align="center">
 	<img style="width: 25%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/NetworkLed/1.png" alt="" />
 </p>
