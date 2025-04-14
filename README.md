@@ -5,7 +5,9 @@
 	Курсы валют ЦБ РФ
 </h2>
 <p align="center">
-	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="https://ya.ru" />
+	<a href="https://apps.apple.com/app/id1638540679">
+		<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+	</a>
 </p>
 <p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" alt="" />
@@ -16,7 +18,9 @@
 	Автокод
 </h2>
 <p align="center">
-	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+	<a href="https://apps.apple.com/app/id1636678924">
+		<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+	</a>
 </p>
 <p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Plates/1.png" alt="" />
@@ -27,7 +31,9 @@
 	Country Quiz
 </h2>
 <p align="center">
-	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+	<a href="https://apps.apple.com/app/id6443878551">
+		<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+	</a>
 </p>
 <p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/CountryQuiz/1.png" alt="" />
@@ -37,7 +43,9 @@
 	Network Activity Led (macOS)
 </h2>
 <p align="center">
-	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheMacApStoreBadgeBlack.svg" alt="" />
+	<a href="https://apps.apple.com/app/id6451270086">
+		<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheMacApStoreBadgeBlack.svg" alt="" />
+	</a>
 </p>
 <p align="center">
 	<img style="width: 25%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/NetworkLed/1.png" alt="" />
