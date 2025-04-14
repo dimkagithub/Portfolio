@@ -48,7 +48,7 @@
 	</a>
 </p>
 <p align="center">
-	<img style="width: 25%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/NetworkLed/1.png" alt="" />
+	<img style="width: 25%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/NetworkLed/2.png" alt="" />
 </p>
 <h2 align="center">
 	IPify
