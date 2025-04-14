@@ -5,7 +5,7 @@
 	Курсы валют ЦБ РФ
 </h2>
 <p align="center">
-	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="" />
+	<img src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Badges/DownloadOnTheApStoreBadgeBlack.svg" alt="https://ya.ru" />
 </p>
 <p align="center">
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Currency/1.png" alt="" />
