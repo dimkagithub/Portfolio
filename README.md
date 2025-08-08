@@ -374,5 +374,4 @@
 <p align="center">
 	<img src="https://img.shields.io/github/directory-file-count/dimkagithub/Portfolio%2FApplications?type=dir&style=plastic&label=Apps">
 	<img src="https://img.shields.io/github/last-commit/dimkagithub/Portfolio/main?style=plastic" alt="" />
-	<img src="https://img.shields.io/github/commit-activity/m/dimkagithub/Portfolio/main?style=plastic" alt="" />
 </p>
