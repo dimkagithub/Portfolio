@@ -130,12 +130,12 @@
 	Pageify
 </h2>
 <p align="center">
-	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/pageify/1.png" alt="" />
-	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/pageify/2.png" alt="" />
-	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/pageify/3.png" alt="" />
-	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/pageify/4.png" alt="" />
-	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/pageify/5.png" alt="" />
-	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/pageify/6.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Pageify/1.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Pageify/2.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Pageify/3.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Pageify/4.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Pageify/5.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Pageify/6.png" alt="" />
 </p>
 <h2 align="center">
 	Photo Cleaner
