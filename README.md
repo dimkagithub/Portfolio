@@ -372,8 +372,7 @@
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/FinancialHelp/6.png" alt="" />
 </p>
 <p align="center">
+	<img src="https://img.shields.io/github/directory-file-count/dimkagithub/Portfolio%2FApplications?type=dir&style=plastic&label=Apps">
 	<img src="https://img.shields.io/github/last-commit/dimkagithub/Portfolio/main?style=plastic" alt="" />
 	<img src="https://img.shields.io/github/commit-activity/m/dimkagithub/Portfolio/main?style=plastic" alt="" />
-	<img src="https://img.shields.io/github/directory-file-count/dimkagithub/Portfolio?style=plastic" alt="" />
-	<img src="https://img.shields.io/github/repo-size/dimkagithub/Portfolio?style=plastic" alt="" />
 </p>
