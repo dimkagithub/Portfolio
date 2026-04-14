@@ -144,6 +144,9 @@
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Stepwise/1.png" alt="" />
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Stepwise/2.png" alt="" />
 	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Stepwise/3.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Stepwise/4.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Stepwise/5.png" alt="" />
+	<img style="width: 15%;" src="https://github.com/dimkagithub/Portfolio/raw/main/Applications/Stepwise/6.png" alt="" />
 </p>
 <h2 align="center">
 	Photo Cleaner
